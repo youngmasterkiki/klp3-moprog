@@ -1,7 +1,7 @@
 # projectfinal
 
 **Nama Aplikasi: Fast Patty**
-
+=============================================================================================================================
 ### Deskripsi
 Fast Patty adalah aplikasi mobile yang mempermudah pengguna untuk mengeksplor, memesan, dan menikmati hidangan lezat dari restoran fast food favorit mereka. Aplikasi ini menawarkan pengalaman pengguna yang intuitif dengan tampilan yang menarik dan fitur-fitur yang mempermudah proses pemesanan.
 
